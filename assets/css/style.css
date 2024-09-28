@@ -149,6 +149,7 @@
 .footer span {
   color: red;
 }
+
 .rodape > .main-bg {
   margin-bottom: -20px;
 }
@@ -161,7 +162,7 @@
   bottom: 2rem;
   right: 2rem;
   background-color: #000;
-  color: #fff;
+  color: #8a83ff;
   height: 5rem;
   width: 5rem;
   display: flex;
@@ -170,7 +171,7 @@
   border-radius: 50%;
   font-weight: 800;
   transform: rotate(-90deg);
-  border: .1rem solid #fff;
+  border: .1rem solid #6b63ff7a;
 
 }
 
@@ -244,7 +245,7 @@
     top: 2rem;
     right: 2rem;
     background-color: black;
-    color: #6c63ff;
+    color: #8a83ff;
     font-size: 3rem;
     width: 3rem;
     height: 3rem;
